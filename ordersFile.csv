@@ -2,7 +2,7 @@ orderID,Username,items,status,totalPrice,phoneNumber,tax,discount
 1000,jackMol34_er,"[""Cheeseburger"",""Pepperoni Pizza"",""Grilled Bacon""]",Successful,34.99,72545673401,0,0
 1001,fantihon_44t,"[""Chicken Nuggets"",""Kebab"",""Falafel Wrap""]",Successful,29.49,71145923401,0,0
 1002,sarah_22,"[""Greek Salad"",""Chicken Wrap""]",Successful,9.98,70981234567,0.0,3.0
-1003,not provided,"['Pepperoni Pizza']", 'Veggie Pizza']",Successful,20.47,not provided,4.99,2.0
+1003,not provided,"["Pepperoni Pizza"]", 'Veggie Pizza']",Successful,20.47,not provided,4.99,2.0
 1004,not provided,"['Pepperoni Pizza']",Cancelled,9.98,not provided,0.99,0.0
 1005,not provided,"['BBQ Chicken Pizza']",Cancelled,15.47,not provided,5.98,0.0
 1006,not provided,"['BBQ Chicken Pizza']",Cancelled,14.18,not provided,5.98,1.29
@@ -42,6 +42,7 @@ orderID,Username,items,status,totalPrice,phoneNumber,tax,discount
 1041,not provided,['Cheesy Fries'],Successful,19.95,not provided,0.0,0
 1042,not provided,['Fries'],Successful,3.98,not provided,0.99,0
 1043,not provided,['Fries'],Successful,3.98,not provided,0.99,0
+
 
 
 
