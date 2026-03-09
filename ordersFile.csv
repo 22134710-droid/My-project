@@ -25,7 +25,7 @@ orderID,Username,items,status,totalPrice,phoneNumber,tax,discount
 1024,not provided,"[""['Cheeseburger', 'Onion Rings']""]",Successful,15.28,not provided,3.99,12.67
 1025,not provided,"['Chicken Burger', 'Beef Hotdog']",Successful,12.44,not provided,4.99,20.0
 1026,not provided,"['Chicken Burger', 'Fries', 'Cheesy Fries']",Successful,11.42,not provided,4.99,20.0
-1027,not provided,"['[\'[\\\'[\\\\\\\'[\\\\\\\\\\\\\\\'[""[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'Chicken Burger\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\', \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'Fries\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\', \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'Cheesy Fries\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\']""]\\\\\\\\\\\\\\\']\\\\\\\']\\\']\']']",Successful,8.98,not provided,4.98,22.43
+1027,not provided,"['Chicken Burger', 'Fries', 'Cheesy Fries']",Successful,8.98,not provided,4.98,22.43
 1028,not provided,['Garlic Bread'],Successful,4.28,not provided,0.99,0
 1029,not provided,['Cheeseburger'],Successful,7.98,not provided,0.99,0
 1030,not provided,['Cheeseburger'],Successful,7.98,not provided,0.99,0
@@ -42,3 +42,4 @@ orderID,Username,items,status,totalPrice,phoneNumber,tax,discount
 1041,not provided,['Cheesy Fries'],Successful,19.95,not provided,0.0,0
 1042,not provided,['Fries'],Successful,3.98,not provided,0.99,0
 1043,not provided,['Fries'],Successful,3.98,not provided,0.99,0
+
