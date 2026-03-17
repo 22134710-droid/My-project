@@ -1,33 +1,33 @@
 menuID,menuName,menuCategory,menuContent
-Breakfast Classics,Breakfast,1|2|3
-Healthy Start,Breakfast,4|5|6
-Lunch Specials,Main Meals,7|8|9
-Italian Favourites,Main Meals,10|11|12
-Vegan Delights,Main Meals,13|14|15
-Dinner Grill,Main Meals,16|17|18
-Seafood Selection,Main Meals,19|20|21
-Kids Menu,Kids,22|23|24
-Dessert Heaven,Desserts,25|26|27
-Drinks Menu,Drinks,28|29|30
-Quick Bites,Snacks,11|12|13|14
-Burger Combo,Main Meals,5|6|8
-Wrap Selection,Main Meals,9|10
-Pizza Combo,Main Meals,1|2|3|4
-Chef Specials,Main Meals,16|17|24|25
-Rice Dishes,Main Meals,26|27
-Soup & Salad,Light,19|20|28
-Pasta Lovers,Main Meals,21|22|23
-Ice Cream Treats,Desserts,29|30|31|32
-Cake Selection,Desserts,33|34|35|36
-Sweet Snacks,Desserts,37|38|39|40
-Cold Drinks,Drinks,41|42|43|44
-Coffee Bar,Drinks,45|46|47|48|49|50
-Sandwich Bar,Main Meals,53|54|55|56|57
-Grill & Panini,Main Meals,58|59
-Mexican Fiesta,Main Meals,60|61|62|63|64|65|66|67|68
-Asian Fusion,Main Meals,69|70|71|72|73|74|75|76|77|78
-Breakfast Deluxe,Breakfast,79|80|81|82|83|84|85|86|87
-Healthy Choices,Light,88|89|90|91|92
-Fitness Fuel,Drinks,93|94|100
-Snack Pack,Snacks,95|96|97|98|99
-Tea & Refreshments,Drinks,101|102|103|104
+1,Breakfast Classics,Breakfast,1|2|3
+2,Healthy Start,Breakfast,4|5|6
+3,Lunch Specials,Main Meals,7|8|9
+4,Italian Favourites,Main Meals,10|11|12
+5,Vegan Delights,Main Meals,13|14|15
+6,Dinner Grill,Main Meals,16|17|18
+7,Seafood Selection,Main Meals,19|20|21
+8,Kids Menu,Kids,22|23|24
+9,Dessert Heaven,Desserts,25|26|27
+10,Drinks Menu,Drinks,28|29|30
+11,Quick Bites,Snacks,11|12|13|14
+12,Burger Combo,Main Meals,5|6|8
+13,Wrap Selection,Main Meals,9|10
+14,Pizza Combo,Main Meals,1|2|3|4
+15,Chef Specials,Main Meals,16|17|24|25
+16,Rice Dishes,Main Meals,26|27
+17,Soup & Salad,Light,19|20|28
+18,Pasta Lovers,Main Meals,21|22|23
+19,Ice Cream Treats,Desserts,29|30|31|32
+20,Cake Selection,Desserts,33|34|35|36
+21,Sweet Snacks,Desserts,37|38|39|40
+22,Cold Drinks,Drinks,41|42|43|44
+23,Coffee Bar,Drinks,45|46|47|48|49|50
+24,Sandwich Bar,Main Meals,53|54|55|56|57
+25,Grill & Panini,Main Meals,58|59
+26,Mexican Fiesta,Main Meals,60|61|62|63|64|65|66|67|68
+27,Asian Fusion,Main Meals,69|70|71|72|73|74|75|76|77|78
+28,Breakfast Deluxe,Breakfast,79|80|81|82|83|84|85|86|87
+29,Healthy Choices,Light,88|89|90|91|92
+30,Fitness Fuel,Drinks,93|94|100
+31,Snack Pack,Snacks,95|96|97|98|99
+32,Tea & Refreshments,Drinks,101|102|103|104
