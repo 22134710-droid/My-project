@@ -1,2 +1,31 @@
 Firstname,Surname,Password,Phone Number,Email,Location,Gender,Age,Ethnicity,Favourite Food,Favourite Colour,Known For,userType,Job Title,Shift,Date Hired,Date Of Birth,Years Of Experience,Username
 Samuel,Harris,DogsCats2^,07935013395,SamuelHarris331@gmail.com,"18, Aston Road, Deeside, Wales",Male,29,British,Falafel Wrap,Green,1,admin,Anytime,Morning,20/07/2024,13/11/1997,3,SamuelHarris-211
+Emily,Jones,Sunshine88!,07891234567,emily.jones22@gmail.com,"45, King Street, Cardiff, Wales",Female,25,British,Pizza,Blue,2,user,Sales Assistant,Evening,15/03/2023,22/06/1999,2,EmilyJones_542
+Daniel,Smith,PassWord123!,07700111222,dan.smith90@gmail.com,"12, High Street, Swansea, Wales",Male,34,British,Burger,Red,3,user,Manager,Morning,01/02/2022,05/09/1991,8,DanielSmith-678
+Olivia,Brown,OliveTree#9,07822334455,olivia.brown11@gmail.com,"9, Park Lane, Wrexham, Wales",Female,28,British,Sushi,Purple,4,user,HR Officer,Day,10/11/2021,14/02/1997,5,OliviaBrown.321
+Liam,Taylor,Liam@2024,07999887766,liam.taylor55@gmail.com,"77, Bridge Road, Newport, Wales",Male,31,British,Steak,Black,5,admin,Supervisor,Night,25/05/2020,30/08/1993,7,LiamTaylor_890
+Sophia,Wilson,Sophia#77,07766554433,sophiawilson77@gmail.com,"3, Church Road, Bangor, Wales",Female,26,British,Pasta,Pink,6,user,Receptionist,Morning,12/09/2023,18/01/2000,2,SophiaWilson-455
+Noah,Evans,Evans123!,07833445566,noah.evans44@gmail.com,"22, Station Road, Colwyn Bay, Wales",Male,30,British,Fish and Chips,Yellow,7,user,Chef,Evening,03/06/2022,09/04/1995,6,NoahEvans_233
+Ava,Thomas,Ava@321,07922334455,ava.thomas33@gmail.com,"14, Hill Street, Llandudno, Wales",Female,27,British,Salad,Green,8,user,Nurse,Night,21/01/2021,11/12/1998,4,AvaThomas-712
+James,Roberts,James!567,07855667788,james.roberts@gmail.com,"66, Queen Street, Flint, Wales",Male,35,British,Curry,Orange,9,admin,Engineer,Day,19/08/2019,25/03/1990,10,JamesRoberts.834
+Isabella,Walker,Bella@2022,07788990011,isabella.walker@gmail.com,"8, Market Street, Mold, Wales",Female,24,British,Tacos,Blue,10,user,Teacher,Morning,17/04/2023,02/07/2001,1,IsabellaWalker-567
+Benjamin,Hall,HallPass#1,07911122334,ben.hall@gmail.com,"50, Green Lane, Rhyl, Wales",Male,33,British,Burger,Brown,11,user,Driver,Night,11/10/2020,21/05/1992,9,BenjaminHall_421
+Mia,Allen,Mia!pass99,07899001122,mia.allen@gmail.com,"29, Oak Road, Aberystwyth, Wales",Female,28,British,Ice Cream,White,12,user,Barista,Evening,09/02/2022,15/10/1996,5,MiaAllen-299
+Lucas,Young,Young123$,07744332211,lucas.young@gmail.com,"91, Elm Street, Bangor, Wales",Male,36,British,Steak,Blue,13,admin,Architect,Day,07/07/2018,03/01/1989,12,LucasYoung.911
+Amelia,King,King!88,07811223344,amelia.king@gmail.com,"10, Willow Way, Conwy, Wales",Female,23,British,Pancakes,Pink,14,user,Student,Morning,01/09/2024,19/03/2002,0,AmeliaKing_105
+Henry,Wright,Henry#22,07955667788,henry.wright@gmail.com,"88, Birch Road, Holyhead, Wales",Male,38,British,Roast Dinner,Red,15,user,Mechanic,Day,20/06/2017,12/08/1987,15,HenryWright-765
+Evelyn,Scott,Eve!321,07877889900,evelyn.scott@gmail.com,"15, Cedar Street, Bangor, Wales",Female,29,British,Salmon,Green,16,user,Designer,Evening,14/05/2021,07/11/1996,6,EvelynScott.643
+Alexander,Green,Alex@2020,07799001122,alex.green@gmail.com,"6, Pine Avenue, Caernarfon, Wales",Male,32,British,Kebab,Black,17,admin,IT Specialist,Night,03/03/2020,01/02/1994,8,AlexanderGreen_876
+Harper,Baker,Baker#77,07866554433,harper.baker@gmail.com,"72, Maple Road, Pwllheli, Wales",Female,26,British,Sushi,Purple,18,user,Waitress,Evening,12/01/2023,22/09/1999,3,HarperBaker-287
+Jack,Adams,Jack!999,07922335566,jack.adams@gmail.com,"19, Cherry Lane, Bangor, Wales",Male,34,British,Pizza,Blue,19,user,Electrician,Day,05/05/2019,30/06/1991,11,JackAdams.554
+Ella,Nelson,Ella@123,07833446677,ella.nelson@gmail.com,"27, Rose Street, Denbigh, Wales",Female,25,British,Pasta,Yellow,20,user,Hairdresser,Morning,22/08/2023,11/12/2000,2,EllaNelson_644
+William,Carter,Will#456,07755668899,will.carter@gmail.com,"11, Ivy Road, Bangor, Wales",Male,37,British,Stew,Brown,21,admin,Builder,Day,17/02/2018,04/04/1988,14,WilliamCarter-902
+Scarlett,Mitchell,Scar!321,07899887766,scarlett.mitchell@gmail.com,"35, Daisy Lane, Anglesey, Wales",Female,28,British,Ice Cream,Pink,22,user,Florist,Evening,10/10/2022,28/07/1997,5,ScarlettMitchell.211
+George,Perez,Geo@789,07988776655,george.perez@gmail.com,"55, Sunset Blvd, Bangor, Wales",Male,31,British,Burrito,Orange,23,user,Chef,Night,06/06/2021,15/01/1995,7,GeorgePerez_730
+Chloe,Turner,Chloe#222,07877665544,chloe.turner@gmail.com,"7, Ocean Drive, Llandudno, Wales",Female,27,British,Salad,Green,24,user,Nurse,Day,13/03/2022,09/05/1998,4,ChloeTurner-688
+Harry,Phillips,Harry!111,07766554433,harry.phillips@gmail.com,"2, River Road, Bangor, Wales",Male,33,British,Fish and Chips,Blue,25,user,Fisherman,Morning,21/07/2020,17/10/1992,9,HarryPhillips.333
+Grace,Campbell,Grace@555,07855443322,grace.campbell@gmail.com,"80, Lake View, Conwy, Wales",Female,24,British,Pizza,Red,26,user,Student,Evening,01/01/2024,06/03/2001,1,GraceCampbell_519
+Thomas,Parker,Tom#909,07944332211,thomas.parker@gmail.com,"13, Hilltop Road, Bangor, Wales",Male,36,British,Steak,Black,27,admin,Manager,Day,11/11/2017,12/12/1989,13,ThomasParker-944
+Lily,Edwards,Lily!888,07833221100,lily.edwards@gmail.com,"99, Forest Lane, Bangor, Wales",Female,29,British,Cake,Purple,28,user,Baker,Morning,09/09/2021,03/08/1996,6,LilyEdwards.288
+Ethan,Moore,Ethan@654,07911223344,ethan.moore54@gmail.com,"21, Seaview Road, Bangor, Wales",Male,28,British,Burger,Blue,29,user,Warehouse Operative,Night,05/12/2022,17/09/1997,5,EthanMoore-654
+Freya,Collins,Freya#321,07866778899,freya.collins21@gmail.com,"4, Mountain View, Holyhead, Wales",Female,26,British,Sushi,Pink,30,user,Customer Assistant,Evening,18/06/2023,25/04/2000,3,FreyaCollins_321
