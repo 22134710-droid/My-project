@@ -28,3 +28,78 @@ itemID,itemName,itemPrice,itemIngredients
 27,Fried Rice,5.99,rice|egg|veg
 28,Chicken Soup,4.99,chicken|broth
 29,Ice Cream,3.49,milk|sugar
+30,Chocolate Ice Cream,3.99,milk|sugar|cocoa
+31,Vanilla Ice Cream,3.79,milk|sugar|vanilla
+32,Strawberry Ice Cream,3.99,milk|sugar|strawberry
+33,Brownie,3.49,flour|cocoa|sugar|butter
+34,Chocolate Cake,4.49,flour|cocoa|sugar|eggs
+35,Cheesecake,4.99,cream cheese|sugar|eggs
+36,Apple Pie,4.29,apple|flour|sugar|butter
+37,Banana Split,5.49,banana|ice cream|chocolate
+38,Milkshake Chocolate,4.49,milk|ice cream|cocoa
+39,Milkshake Vanilla,4.29,milk|ice cream|vanilla
+40,Milkshake Strawberry,4.49,milk|ice cream|strawberry
+41,Cola Drink,1.99,water|sugar|flavour
+42,Orange Soda,1.99,water|sugar|orange
+43,Lemonade,1.79,water|lemon|sugar
+44,Iced Tea,1.89,tea|ice|sugar
+45,Black Coffee,1.99,coffee|water
+46,Latte,2.99,coffee|milk
+47,Cappuccino,2.99,coffee|milk|foam
+48,Espresso,1.79,coffee
+49,Mocha,3.49,coffee|milk|chocolate
+50,Hot Chocolate,2.49,milk|cocoa|sugar
+51,Bagel Plain,2.49,flour|water|yeast
+52,Bagel Cream Cheese,3.49,flour|cream cheese
+53,BLT Sandwich,5.49,bread|bacon|lettuce|tomato
+54,Club Sandwich,6.49,bread|chicken|bacon|lettuce
+55,Tuna Sandwich,5.29,bread|tuna|mayo
+56,Egg Sandwich,4.99,bread|egg|butter
+57,Grilled Cheese,4.49,bread|cheese|butter
+58,Panini Chicken,6.99,bread|chicken|cheese
+59,Panini Veggie,6.49,bread|vegetables|cheese
+60,Quesadilla Cheese,5.99,tortilla|cheese
+61,Quesadilla Chicken,6.99,tortilla|chicken|cheese
+62,Nachos,5.49,tortilla chips|cheese|salsa
+63,Nachos Supreme,6.99,tortilla chips|beef|cheese|salsa
+64,Taco Beef,4.49,tortilla|beef|lettuce
+65,Taco Chicken,4.49,tortilla|chicken|lettuce
+66,Burrito Beef,6.99,tortilla|beef|rice|beans
+67,Burrito Chicken,6.99,tortilla|chicken|rice|beans
+68,Burrito Veggie,6.49,tortilla|rice|beans|veg
+69,Spring Rolls,4.49,vegetables|wrapper
+70,Dumplings,5.49,dough|meat|veg
+71,Sushi Roll,7.99,rice|fish|seaweed
+72,Tempura Shrimp,8.49,shrimp|batter
+73,Pad Thai,9.49,noodles|chicken|peanuts
+74,Fried Noodles,7.99,noodles|vegetables
+75,Ramen,8.99,noodles|broth|egg
+76,Beef Stir Fry,9.99,beef|vegetables|sauce
+77,Chicken Stir Fry,9.49,chicken|vegetables|sauce
+78,Vegetable Stir Fry,8.99,vegetables|sauce
+79,Pancakes,4.99,flour|milk|egg
+80,Waffles,5.49,flour|milk|egg
+81,French Toast,5.49,bread|egg|milk
+82,Omelette Cheese,4.99,egg|cheese
+83,Omelette Veggie,5.49,egg|vegetables
+84,Omelette Meat,5.99,egg|ham|cheese
+85,Sausage Breakfast,5.49,sausage|egg|bread
+86,Bacon Breakfast,5.99,bacon|egg|bread
+87,Hash Browns,2.99,potatoes|oil|salt
+88,Yogurt Parfait,3.99,yogurt|fruit|granola
+89,Fruit Salad,3.49,apple|banana|orange
+90,Smoothie Berry,4.49,berries|yogurt|honey
+91,Smoothie Mango,4.49,mango|yogurt|honey
+92,Smoothie Green,4.49,spinach|apple|banana
+93,Protein Shake,4.99,milk|protein powder
+94,Energy Bar,2.49,oats|honey|nuts
+95,Chocolate Bar,1.99,cocoa|sugar|milk
+96,Chips,1.99,potatoes|salt
+97,Popcorn,2.49,corn|butter|salt
+98,Pretzels,2.29,flour|salt
+99,Trail Mix,2.99,nuts|raisins|chocolate
+100,Granola Bar,2.49,oats|honey
+101,Water Bottle,1.49,water
+102,Sparkling Water,1.79,water|carbonation
+103,Herbal Tea,1.99,herbs|water
+104,Green Tea,1.99,tea leaves|water
